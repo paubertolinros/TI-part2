@@ -1,0 +1,22 @@
+[
+  {
+    "task" : "posar la rentadora",
+    "status": "false",
+    "id": 1234
+  },
+   {
+    "task" : "posar el rentavaixelles",
+    "status": "false",
+    "id": 12345
+  },
+   {
+    "task" : "fer el llit",
+    "status": "false",
+    "id": 12346
+  },
+   {
+    "task" : "netejar els vidres",
+    "status": "false",
+    "id": 12347
+  }
+]
